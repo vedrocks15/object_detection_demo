@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>16.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\16.jpg</path>
+	<folder>train</folder>
+	<filename>16.png</filename>
+	<path>/home/dell/object_detection_demo/data/images/train/16.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,51 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>coconut</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>145</xmin>
-			<ymin>198</ymin>
-			<xmax>259</xmax>
-			<ymax>377</ymax>
+			<xmin>380</xmin>
+			<ymin>39</ymin>
+			<xmax>397</xmax>
+			<ymax>60</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>coconut</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>490</xmin>
-			<ymin>215</ymin>
-			<xmax>611</xmax>
-			<ymax>361</ymax>
+			<xmin>317</xmin>
+			<ymin>55</ymin>
+			<xmax>335</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coconut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>60</ymin>
+			<xmax>386</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coconut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>91</ymin>
+			<xmax>338</xmax>
+			<ymax>110</ymax>
 		</bndbox>
 	</object>
 </annotation>
