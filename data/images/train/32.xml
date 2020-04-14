@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>238</xmin>
-			<ymin>120</ymin>
-			<xmax>252</xmax>
-			<ymax>130</ymax>
+			<xmin>540</xmin>
+			<ymin>193</ymin>
+			<xmax>563</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coconut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>614</xmin>
+			<ymin>200</ymin>
+			<xmax>627</xmax>
+			<ymax>237</ymax>
 		</bndbox>
 	</object>
 </annotation>
